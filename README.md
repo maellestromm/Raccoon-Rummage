@@ -24,6 +24,6 @@
 
 <img alt="Win Screen" src="https://github.com/maellestromm/Raccoon-Rummage/blob/02aa5a67a45db0bbb42270afcbda68deddec3368/Screens/WinBackground.png" width="45%"></img> <img alt="Lose Screen" src="https://github.com/maellestromm/Raccoon-Rummage/blob/ba7db2f3b3fd2f36bbe1ae8daea8ef6b412ead63/Screens/LoseBackground.png" width="45%"></img>
 
-<img alt="Promo Graphic 3" src="https://github.com/maellestromm/Raccoon-Rummage/blob/862187361968473348406a351b89b44124edef30/PromoGraphics/PromoGraphic3.png" width="45%"></img> <img alt="Promo Graphic 2" src="https://github.com/maellestromm/Raccoon-Rummage/blob/ba7db2f3b3fd2f36bbe1ae8daea8ef6b412ead63/PromoGraphics/PromoGraphic2.png" width="45%"></img> <br>
+<img alt="Promo Graphic 3" src="https://github.com/maellestromm/Raccoon-Rummage/blob/862187361968473348406a351b89b44124edef30/PromoGraphics/PromoGraphic3.png" width="45%"></img> <img alt="Promo Graphic 2" src="https://github.com/maellestromm/Raccoon-Rummage/blob/ba7db2f3b3fd2f36bbe1ae8daea8ef6b412ead63/PromoGraphics/PromoGraphic2.png" width="55%"></img> <br>
   
 [demo]:https://youtu.be/W_Otazj7o_g
