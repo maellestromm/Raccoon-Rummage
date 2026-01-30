@@ -21,7 +21,7 @@
 <img alt="Gameboard" src="https://github.com/maellestromm/Raccoon-Rummage/blob/d7303b4a936727c060deeaf7b12370e05075ab73/Screens/GameboardScreenshot.png" width="40%"></img> <img alt="Win Screen" src="https://github.com/maellestromm/Raccoon-Rummage/blob/02aa5a67a45db0bbb42270afcbda68deddec3368/Screens/WinBackground.png" width="40%"></img> <br>
   <br>
 
-<img align="right" alt="Tutorial" src="https://github.com/maellestromm/Raccoon-Rummage/blob/d7303b4a936727c060deeaf7b12370e05075ab73/Screens/TutorialPanel.png" width="50%">
-<img alt="Promo Graphic 2" src="https://github.com/maellestromm/Raccoon-Rummage/blob/1e8fec9332568a94010e91475d0b83ac368ba678/PromoGraphics/PromoGraphic2.png" width="50%"></img>
+<img alt="Tutorial" src="https://github.com/maellestromm/Raccoon-Rummage/blob/d7303b4a936727c060deeaf7b12370e05075ab73/Screens/TutorialPanel.png" width="50%">
+<img align="right" alt="Promo Graphic 2" src="https://github.com/maellestromm/Raccoon-Rummage/blob/1e8fec9332568a94010e91475d0b83ac368ba678/PromoGraphics/PromoGraphic2.png" width="50%"></img>
   
 [demo]:https://youtu.be/W_Otazj7o_g
