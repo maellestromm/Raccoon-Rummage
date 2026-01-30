@@ -20,6 +20,8 @@
 
 <img alt="Gameboard" src="https://github.com/maellestromm/Raccoon-Rummage/blob/d7303b4a936727c060deeaf7b12370e05075ab73/Screens/GameboardScreenshot.png" width="40%"></img> <img alt="Win Screen" src="https://github.com/maellestromm/Raccoon-Rummage/blob/02aa5a67a45db0bbb42270afcbda68deddec3368/Screens/WinBackground.png" width="40%"></img> <br>
 
+<img alt="Play" src="https://github.com/maellestromm/Raccoon-Rummage/blob/cff14f385dca67b6106297c7ba971a2a5896c0e9/GameAssets/playbutton.png" width="100%"></img> <img alt="Menu" src="https://github.com/maellestromm/Raccoon-Rummage/blob/cff14f385dca67b6106297c7ba971a2a5896c0e9/GameAssets/MenuButton.png" width="100%"></img> <img alt="Back" src="https://github.com/maellestromm/Raccoon-Rummage/blob/cff14f385dca67b6106297c7ba971a2a5896c0e9/GameAssets/backbutton.png" width="100%"></img> <br>
+
 <img alt="Promo Graphic 3" src="https://github.com/maellestromm/Raccoon-Rummage/blob/862187361968473348406a351b89b44124edef30/PromoGraphics/PromoGraphic3.png" width="45%"></img> <img alt="Tutorial" src="https://github.com/maellestromm/Raccoon-Rummage/blob/d7303b4a936727c060deeaf7b12370e05075ab73/Screens/TutorialPanel.png" width="50%"></img> <br>
   
 [demo]:https://youtu.be/W_Otazj7o_g
