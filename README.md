@@ -18,7 +18,7 @@
 
 <p>Most prominently, I was the lead developer for game's entire UI: creating every screen, button, sprite, and icon either from scratch or by modifying stock assets. Then, I implemented each asset into the game utilizing the Java Swing package.</p>
 
-<img alt="Gameboard" src="https://github.com/maellestromm/Raccoon-Rummage/blob/d7303b4a936727c060deeaf7b12370e05075ab73/Screens/GameboardScreenshot.png" width="40%"></img> <img alt="Win Screen" src="https://github.com/maellestromm/Raccoon-Rummage/blob/02aa5a67a45db0bbb42270afcbda68deddec3368/Screens/WinBackground.png" width="40%"></img> <br>
+<img alt="Gameboard" src="https://github.com/maellestromm/Raccoon-Rummage/blob/d7303b4a936727c060deeaf7b12370e05075ab73/Screens/GameboardScreenshot.png" width="45%"></img> <img alt="Win Screen" src="https://github.com/maellestromm/Raccoon-Rummage/blob/02aa5a67a45db0bbb42270afcbda68deddec3368/Screens/WinBackground.png" width="45%"></img> <br>
 
 <img alt="Play" src="https://github.com/maellestromm/Raccoon-Rummage/blob/cff14f385dca67b6106297c7ba971a2a5896c0e9/GameAssets/playbutton.png" width="30%"></img> <img alt="Menu" src="https://github.com/maellestromm/Raccoon-Rummage/blob/cff14f385dca67b6106297c7ba971a2a5896c0e9/GameAssets/MenuButton.png" width="30%"></img> <img alt="Back" src="https://github.com/maellestromm/Raccoon-Rummage/blob/cff14f385dca67b6106297c7ba971a2a5896c0e9/GameAssets/backbutton.png" width="30%"></img> <br>
 
