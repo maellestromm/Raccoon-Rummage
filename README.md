@@ -18,9 +18,10 @@
 
 <p>Most prominently, I was the lead developer for game's entire UI: creating every screen, button, sprite, and icon either from scratch or by modifying stock assets. Then, I implemented each asset into the game utilizing the Java Swing package.</p>
 
-<img alt="Gameboard" src="https://github.com/maellestromm/Raccoon-Rummage/blob/d7303b4a936727c060deeaf7b12370e05075ab73/Screens/GameboardScreenshot.png" width="30%"></img> <img alt="Win Screen" src="https://github.com/maellestromm/Raccoon-Rummage/blob/02aa5a67a45db0bbb42270afcbda68deddec3368/Screens/WinBackground.png" width="30%"></img> <br>
+<img alt="Gameboard" src="https://github.com/maellestromm/Raccoon-Rummage/blob/d7303b4a936727c060deeaf7b12370e05075ab73/Screens/GameboardScreenshot.png" width="40%"></img> <img alt="Win Screen" src="https://github.com/maellestromm/Raccoon-Rummage/blob/02aa5a67a45db0bbb42270afcbda68deddec3368/Screens/WinBackground.png" width="40%"></img> <br>
   <br>
 
-<img alt="Tutorial" src="https://github.com/maellestromm/Raccoon-Rummage/blob/d7303b4a936727c060deeaf7b12370e05075ab73/Screens/TutorialPanel.png" width="50%"></img> 
+<img align="right" alt="Tutorial" src="https://github.com/maellestromm/Raccoon-Rummage/blob/d7303b4a936727c060deeaf7b12370e05075ab73/Screens/TutorialPanel.png" width="50%">
+<img alt="Promo Graphic 2" src="https://github.com/maellestromm/Raccoon-Rummage/blob/1e8fec9332568a94010e91475d0b83ac368ba678/PromoGraphics/PromoGraphic2.png" width="50%"></img>
   
 [demo]:https://youtu.be/W_Otazj7o_g
